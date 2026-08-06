@@ -1,0 +1,278 @@
+RSL TRANSFER MARKET & FFP DOSSIER — 2026 SUMMER WINDOW
+Roshn Saudi League | Compiled for internal scouting, compliance and FFP advisory use.
+NOTE: This dossier contains illustrative data (including fictional player names for the
+statistics and rumor sections) compiled for demonstration purposes of the RSL Transfer
+Market & FFP Advisor Agent. Registration and salary-cap figures reflect the modeled
+2026-season regulatory framework used by this application.
+
+=====================================================================
+SECTION 1: ROSHN SAUDI LEAGUE SQUAD REGISTRATION & FOREIGN PLAYER
+QUOTA RULES (2026 SEASON)
+=====================================================================
+
+=== Page 1: RSL Registration Rules ===
+
+1.1 Squad Size
+Each Roshn Saudi League (RSL) club must register a first-team squad of no fewer than
+22 and no more than 30 professional players ahead of the season deadline. Clubs must
+submit two registration lists per season: the Summer List (closes at the end of the
+summer transfer window) and the Winter List (closes at the end of the January window).
+A club fielding an ineligible player in a competitive fixture forfeits the match 3-0
+under RSL Disciplinary Code Article 14.
+
+1.2 Foreign Player Quota — "8+2" Rule
+The League Registration Committee enforces an "8+2" foreign player quota for every
+club competing in the Roshn Saudi League:
+  - A maximum of EIGHT (8) senior foreign players may be registered and listed on the
+    official matchday squad sheet at any one time.
+  - An ADDITIONAL maximum of TWO (2) foreign players may be registered exclusively
+    under the Under-21 Foreign Development Slot (see Section 1, Page 2), separate
+    from and in addition to the 8 senior foreign slots.
+  - This means the absolute ceiling on foreign players registered by a single club is
+    TEN (10): 8 senior + 2 U21 development slots.
+  - There is no maximum limit on the number of Saudi national players a club may
+    register, subject to the overall squad-size ceiling of 30 professionals.
+
+1.3 Enforcement
+Any club found to have registered more than 8 senior foreign players, or more than 2
+U21 foreign development players, will have the registration of the excess player(s)
+voided by the Committee and will be referred to the RSL Financial & Regulatory Panel
+for a mandatory compliance review. Clubs are strongly advised to run a compliance
+check (via the squad registration validator) before submitting any new signing for
+official registration.
+
+=== Page 2: Foreign Player Quotas & U21 Development Slot Rules ===
+
+2.1 Definition of "Foreign Player"
+A player is classified as "foreign" for RSL registration purposes if they do not hold
+Saudi Arabian nationality and are not eligible for a Saudi passport under the
+Ministry of Sport's naturalized-player pathway at the time of registration.
+
+2.2 Under-21 (U21) Foreign Development Slot — Eligibility
+To qualify for one of the two dedicated U21 Foreign Development Slots (separate from
+the 8 senior foreign slots), a foreign player MUST have been born on or after
+1 January 2005 for the 2026 season (i.e., aged 21 or under on 1 July 2026). Clubs
+must submit birth-certificate or passport verification to the Registration Committee
+before a player can be classified into a U21 slot rather than a senior slot.
+
+2.3 Slot Flexibility
+A U21-eligible foreign player (born 2005 or later) MAY be voluntarily registered
+against a senior foreign slot instead of a U21 slot if the club has already filled
+both U21 slots — this is permitted and does not violate the quota, since it simply
+uses one of the 8 senior allocations. However, a foreign player born before 1 January
+2005 can NEVER be registered against a U21 slot, only against a senior slot.
+
+2.4 Homegrown Ratio Guideline
+As a football-development guideline (not a hard registration block, but monitored by
+the League's Sporting Development Unit), RSL recommends that at least 50% of a
+club's registered senior squad consists of Saudi national ("homegrown") players.
+Clubs falling below this ratio for two consecutive seasons may be required to submit
+a Player Development Improvement Plan to the League.
+
+=====================================================================
+SECTION 2: FINANCIAL SUSTAINABILITY & SALARY CAP GUIDELINES FOR
+RSL CLUBS
+=====================================================================
+
+=== Page 3: FFP Overview & Salary Cap Mechanism ===
+
+3.1 Purpose
+The RSL Financial Fair Play (FFP) & Sustainability Framework exists to ensure that
+clubs do not accumulate transfer and wage spending that outstrips sustainable
+football-related revenue, preserving long-term competitive balance across the League.
+
+3.2 Squad Cost Control (SCC) Ratio
+Each club's aggregate spend on wages, transfer amortization, and agent fees must not
+exceed 85% of the club's total adjusted football revenue (broadcast distribution,
+matchday income, sponsorship, and commercial revenue), calculated on a rolling
+three-season average. This is known as the Squad Cost Control (SCC) Ratio.
+
+3.3 Reporting Currency
+All FFP submissions to the League's Club Licensing & Financial Sustainability Panel
+must be reported in Saudi Riyal (SAR). Transfer fees and salaries agreed in a foreign
+currency (EUR, GBP, USD) must be converted to SAR at the League's official quarterly
+reference rate at the time of the transaction for reporting purposes. The reference
+rates currently in effect are: 1 EUR = 4.08 SAR, 1 GBP = 4.78 SAR, 1 USD = 3.75 SAR.
+
+3.4 Materiality Threshold
+Any single transfer fee or signing-on package exceeding SAR 75,000,000 (approximately
+EUR 18.4M at the reference rate) must be individually disclosed and pre-cleared by
+the Financial Sustainability Panel before the player can be officially registered.
+
+=== Page 4: Penalties for FFP Non-Compliance ===
+
+4.1 Tiered Sanctions
+Clubs that breach the 85% Squad Cost Control Ratio face a tiered sanctions regime:
+  - Breach of up to 5 percentage points over the threshold (i.e., up to 90%): a
+    formal written warning and a mandatory remediation plan within 90 days.
+  - Breach of 5-15 percentage points over the threshold (90%-100%): a transfer levy
+    of 10% on the club's next two windows of incoming transfer spend, remitted to
+    the League's Solidarity Fund.
+  - Breach of more than 15 percentage points over the threshold (above 100%): a
+    squad registration freeze — the club may not register any new signing, foreign
+    or domestic, until the following registration window, plus a fine of up to
+    SAR 20,000,000.
+
+4.2 Appeals
+Clubs may appeal a sanction to the independent RSL Financial Appeals Board within 14
+days of notification. Appeals do not suspend a registration freeze while pending.
+
+4.3 Advisory Note
+Clubs are strongly encouraged to model the SAR-equivalent cost of any prospective
+transfer (fee + estimated first-year wages) against their current SCC Ratio headroom
+before entering formal negotiations, to avoid triggering an unplanned sanction.
+
+=====================================================================
+SECTION 3: CONFIRMED SUMMER 2026 TRANSFERS & OFFICIAL ANNOUNCEMENTS
+=====================================================================
+
+=== Page 5: Al-Nassr — Confirmed Transfers ===
+
+5.1 IN: Théo Marchetti (Forward, born 12 March 1998, France) — joins from a Ligue 1
+club for a fee of EUR 32,000,000 plus EUR 4,000,000 in add-ons. Personal terms were
+agreed on 3 July 2026 and the medical was completed on 6 July 2026. Registered
+against a senior foreign slot. Official club statement published 7 July 2026.
+
+5.2 IN: Kwame Boateng (Midfielder, born 9 April 2006, Ghana, U21-eligible) — signed
+on a free transfer following the expiry of his previous contract. Registered against
+one of Al-Nassr's two U21 Foreign Development Slots, effective 1 July 2026.
+
+5.3 OUT: Rui Adão (Winger) — departed on a permanent transfer to a Qatar Stars League
+club for an undisclosed fee, reported by the club to be in the region of
+EUR 14,000,000. This departure frees one senior foreign slot for Al-Nassr.
+
+=== Page 6: Al-Hilal — Confirmed Transfers ===
+
+6.1 IN: Marko Vitić (Centre-back, born 22 January 1997, Serbia) — signed from a
+Saudi Pro League rival for a domestically-agreed fee of SAR 55,000,000. Personal
+terms and medical both completed by 15 June 2026. Registered against a senior
+foreign slot; the club has confirmed this brings their senior foreign contingent to
+the regulatory maximum of 8 permitted under Section 1.
+
+6.2 IN: Diego Salgado (Forward, born 30 May 1999, Argentina) — joins for a reported
+fee of EUR 41,000,000, a club-record incoming fee for the summer window. The
+Financial Sustainability Panel confirmed pre-clearance was obtained given the fee
+exceeds the SAR 75,000,000 materiality threshold described in Section 2, Page 3.
+
+6.3 Compliance Note: Al-Hilal's official squad list currently shows 9 senior foreign
+players registered, one above the permitted maximum of 8 described in Section 1,
+Page 1. The League has requested the club submit a corrected registration list
+before the next competitive fixture; this is flagged as an active compliance item.
+
+=== Page 7: Al-Ittihad & Al-Ahli — Confirmed Transfers ===
+
+7.1 Al-Ittihad IN: Émile Rousseau (Attacking Midfielder, born 18 February 2005,
+France, U21-eligible) — signed from a Ligue 2 club for EUR 9,500,000. Registered
+against one of Al-Ittihad's two U21 Foreign Development Slots.
+
+7.2 Al-Ittihad IN: Lucas Herrera (Right-back, born 11 November 1996, Uruguay) —
+signed on a permanent transfer for GBP 12,000,000. Registered against a senior
+foreign slot.
+
+7.3 Al-Ahli IN: Bruno Alves Jr. (Forward, born 4 August 2000, Brazil) — joins from a
+Brasileirão club for a fee of USD 38,000,000 plus a 10% future sell-on clause.
+Personal terms agreed 20 June 2026; fee agreed with the selling club on 25 June 2026.
+Registered against a senior foreign slot, bringing Al-Ahli to 8 senior foreign
+players, the permitted maximum.
+
+7.4 Al-Ahli OUT: Faisal Al-Otaibi — departed on loan to a fellow RSL club for the
+2026-27 season; no impact on foreign player quota as the player is a Saudi national.
+
+=====================================================================
+SECTION 4: ACTIVE TRANSFER RUMORS (TIER 1 TO TIER 3 SOURCES)
+=====================================================================
+
+=== Page 8: Tier 1 Rumors — Confirmed Insiders / Official-Adjacent Sources ===
+
+8.1 [TIER 1] Al-Nassr are in advanced talks to sign centre-forward Nikolai Petrov
+(born 2001, target profile "Target Forward" — see Section 5) from a Bundesliga club.
+Personal terms are reported as agreed by two independent Tier-1 insiders; the
+transfer fee is still under negotiation as of 28 July 2026. Reported by the source
+network's senior Middle East correspondent, age of report: 6 hours.
+
+8.2 [TIER 1] Al-Hilal's move for a Premier League full-back is reported by the
+club's own regional broadcast partner to be "close to completion", with the fee
+described as agreed at approximately GBP 22,000,000. Personal terms not yet
+confirmed. Age of report: 18 hours.
+
+8.3 [TIER 1] Al-Ittihad have agreed a fee with a Serie A club for a defensive
+midfielder, per a Tier-1 insider directly citing the selling club's sporting
+director. Personal terms are still being negotiated. Age of report: 30 hours.
+
+=== Page 9: Tier 2 Rumors — Reputable National/International Journalists ===
+
+9.1 [TIER 2] A well-followed national football journalist reports Al-Ahli have held
+"exploratory talks" for a La Liga winger, with no fee or personal terms agreed yet.
+Age of report: 40 hours.
+
+9.2 [TIER 2] A regional sports outlet, citing a single unnamed source, reports that
+Al-Nassr's rivals Al-Hilal have also registered interest in Nikolai Petrov (see
+Page 8, item 8.1), setting up a potential rival-transfer scenario. Age of report:
+50 hours.
+
+9.3 [TIER 2] A respected transfer-market journalist reports Al-Ittihad's interest in
+a young U21-eligible Portuguese winger has cooled after the player's club raised
+their valuation. Age of report: 65 hours.
+
+=== Page 10: Tier 3 Rumors — Speculative / Fan & Social Media Sources ===
+
+10.1 [TIER 3] A fan account claims, without sourcing, that Al-Ahli have "already
+agreed everything" for a South American striker. No corroboration from any Tier-1
+or Tier-2 source. Age of report: 5 hours.
+
+10.2 [TIER 3] A speculative report on a fan forum suggests Al-Nassr could move for
+a second forward "as insurance" if the Petrov deal collapses. No named target,
+no sourcing. Age of report: 70 hours.
+
+10.3 [TIER 3] An anonymous social media account claims Al-Hilal and Al-Ittihad are
+"both in for the same free agent", with no fee or terms context provided and no
+named player confirmed. Age of report: 90 hours (stale — exceeds the standard
+48-hour freshness window used by the Advisor Agent's rumor filter).
+
+=====================================================================
+SECTION 5: DETAILED PLAYER STATISTICS FOR COMPARISON
+=====================================================================
+
+=== Page 11: Target Forward Profile — Nikolai Petrov (Statistics) ===
+
+11.1 Player: Nikolai Petrov, Centre-Forward, born 14 May 2001, Bundesliga 2025-26
+season statistics (all competitions):
+  - Appearances: 33
+  - Minutes played: 2,760
+  - Goals: 24
+  - Assists: 7
+  - Key passes per 90: 1.8
+  - Minutes per goal: 115
+  - Shot conversion rate: 22%
+  - Estimated current gross annual salary: EUR 3,600,000
+
+11.2 Scouting Summary
+Petrov is rated as an elite penetrative finisher with strong movement in the box; his
+minutes-per-goal figure of 115 ranks in the top decile among Bundesliga forwards this
+season. His key-passes-per-90 of 1.8 suggests moderate but not primary creative
+involvement — he is a "finisher" profile rather than a "creator" profile.
+
+=== Page 12: Existing Squad Forward Profile — Comparison Statistics ===
+
+12.1 Player: Existing Al-Nassr squad forward (for comparison purposes), 2025-26
+Roshn Saudi League season statistics (all competitions):
+  - Appearances: 30
+  - Minutes played: 2,340
+  - Goals: 16
+  - Assists: 9
+  - Key passes per 90: 2.4
+  - Minutes per goal: 146
+  - Shot conversion rate: 17%
+  - Estimated current gross annual salary: EUR 2,100,000
+
+12.2 Comparative Note
+Direct comparison against the target profile (Page 11) shows the incoming target has
+a materially better minutes-per-goal ratio (115 vs 146, i.e., 31 fewer minutes needed
+per goal) and a higher shot conversion rate, but a lower assists and key-passes-per-90
+output, indicating a trade-off between pure finishing output and creative
+contribution. This comparison should be run through the compare_player_stats tool
+for an exact side-by-side delta before presenting a recommendation to technical staff.
+
+=====================================================================
+END OF DOSSIER
+=====================================================================

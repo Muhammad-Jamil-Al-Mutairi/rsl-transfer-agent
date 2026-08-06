@@ -1,0 +1,22 @@
+{
+  "Al-Nassr": {
+    "total_saudi_players": 16,
+    "senior_foreign_players": 8,
+    "u21_foreign_players": 1
+  },
+  "Al-Hilal": {
+    "total_saudi_players": 18,
+    "senior_foreign_players": 9,
+    "u21_foreign_players": 0
+  },
+  "Al-Ittihad": {
+    "total_saudi_players": 15,
+    "senior_foreign_players": 7,
+    "u21_foreign_players": 2
+  },
+  "Al-Ahli": {
+    "total_saudi_players": 17,
+    "senior_foreign_players": 8,
+    "u21_foreign_players": 1
+  }
+}
