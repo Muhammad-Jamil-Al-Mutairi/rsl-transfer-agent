@@ -82,3 +82,11 @@ pip install -r requirements.txt
 
 # Run the project locally
 streamlit run app.py
+
+# ⚽ Roshn Saudi League (RSL) — Transfer Market & FFP Advisor Agent
+
+[![Live Demo](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://rsl-transfer-agent-efamanjsztajcbtspqfcnx.streamlit.app/)
+
+**Try the live agent here:** [https://rsl-transfer-agent-efamanjsztajcbtspqfcnx.streamlit.app/](https://rsl-transfer-agent-efamanjsztajcbtspqfcnx.streamlit.app/)
+
+An Advanced Agentic RAG (Retrieval-Augmented Generation) infrastructure built for the **SDAIA Applied Generative AI** Capstone Project...
