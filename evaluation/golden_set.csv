@@ -1,0 +1,6 @@
+Question,Expected_Tool_Call,Expected_Result,Evaluation_Category
+"Calculate the transfer score for a Tier 1 rumor with agreed terms and agreed fee, but between rival clubs.","calculate_transfer_score","80% (Very Likely)","Tool Isolation"
+"Is Al-Hilal currently compliant with the senior foreign player quota?","check_squad_registration","Non-compliant (9 players, exceeding limit of 8)","Data Registry Lookup"
+"Convert €45M to Saudi Riyal and check the transfer fee against standard FFP thresholds.","currency_converter_saudi_riyal","183.6M SAR, exceeds 75M SAR FSP threshold","Financial Logic"
+"A Tier 2 source reports Al-Nassr agreed to terms to sign a foreign forward born in 2006 for €20M. Run a full diagnostic.","calculate_transfer_score -> filter_under21_foreign_slot -> currency_converter_saudi_riyal","Score: 85%, U21 Eligible, 81.6M SAR","Multi-Tool Pipeline"
+"What are the exact squad registration rules and age cutoffs for foreign players in the 2026 season?","Qdrant Hybrid Search (RAG)","Max 8 senior, 2 U21 (born on/after Jan 1, 2005) + Page citations","Dossier Retrieval Grounding"

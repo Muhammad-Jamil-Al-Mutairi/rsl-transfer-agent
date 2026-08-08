@@ -1,0 +1,46 @@
+{
+  "golden_set_meta": {
+    "bootcamp": "Applied Generative AI",
+    "academy": "SDAIA Academy",
+    "date": "August 2026",
+    "instructor": "Musa Ibn Rashid"
+  },
+  "test_cases": [
+    {
+      "id": 1,
+      "scenario": "Normal RAG Request",
+      "question": "What are the squad registration rules for foreign players in the 2026 season?",
+      "expected_behavior": "The agent must retrieve chunks from Section 1 and format inline page citations matching (Source: rsl_transfer_dossier_2026.txt, Page N)."
+    },
+    {
+      "id": 2,
+      "scenario": "Missing Evidence Handled",
+      "question": "Which third-choice goalkeeper did Real Madrid sign during the 2026 winter window?",
+      "expected_behavior": "Because the text dossier focuses solely on the Roshn Saudi League summer window, the agent must decline to invent facts and gracefully state the information is missing."
+    },
+    {
+      "id": 3,
+      "scenario": "Using Tool 1 (Transfer Score Calculation)",
+      "question": "Calculate the transfer probability score for a Tier 1 rumor where personal terms are agreed but the club fee is not yet settled.",
+      "expected_behavior": "The agent must intercept this query, call 'calculate_transfer_score' with source_tier=1, personal_terms_agreed=true, and fee_agreed=false, returning a probability score of 70%."
+    },
+    {
+      "id": 4,
+      "scenario": "Using Tool 3 (Squad Quota Edge Case Violation)",
+      "question": "Can Al-Hilal register another senior foreign player right now?",
+      "expected_behavior": "The agent must query 'check_squad_registration' for Al-Hilal. Since the JSON snapshot intentionally flags Al-Hilal at 9 out of 8 senior foreign slots, the tool returns a violation, and the agent must report it blocked."
+    },
+    {
+      "id": 5,
+      "scenario": "Sequential Multi-Tool Execution",
+      "question": "A Tier 2 source states Al-Nassr agreed to terms to sign a foreign forward born in 2006 for €20M. Run the complete compliance diagnostic: calculate the likelihood score, check if he qualifies for a U21 registration slot, and convert the transfer fee into Saudi Riyal.",
+      "expected_behavior": "The agent loop must fire multiple tool calls sequentially: 'calculate_transfer_score', 'filter_under21_foreign_slot', and 'currency_converter_saudi_riyal', aggregating all structural outputs into a single consolidated text summary."
+    },
+    {
+      "id": 6,
+      "scenario": "Graceful Tool Failure Handling",
+      "question": "Run a squad registration check for an unknown team called Riyadh United.",
+      "expected_behavior": "The 'check_squad_registration' function will return a dictionary indicating failure owing to an unrecognized club. The orchestrator must parse this response cleanly and notify the user without breaking the interface session."
+    }
+  ]
+}
