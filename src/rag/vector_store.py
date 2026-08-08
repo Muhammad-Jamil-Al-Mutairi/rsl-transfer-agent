@@ -35,7 +35,7 @@ from qdrant_client.http import models as qmodels
 
 load_dotenv()
 
-EMBEDDING_MODEL = os.environ.get("GEMINI_EMBEDDING_MODEL", "models/gemini-embedding-001")
+EMBEDDING_MODEL = os.environ.get("GEMINI_EMBEDDING_MODEL", "models/gemini-embedding-004")
 # gemini-embedding-001 defaults to 3072-dim (Matryoshka) output; we request
 # 768 explicitly via output_dimensionality in _embed_texts() below so it
 # matches the Qdrant collection's vector size.
